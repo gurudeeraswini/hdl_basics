@@ -1,2 +1,3 @@
 # hdl_basics
-The Repository contains all elementary gates Logic in Hardware Description Language.
+The Rep contains all Elementary Gate Logics in Hardware Descrition Language.
+\\ Also  Contains Entry Advance Gates
